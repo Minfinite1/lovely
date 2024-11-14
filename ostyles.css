@@ -1,0 +1,47 @@
+img {
+    width: 78vw;
+    max-width: 100%;
+    max-height: 100vh;
+    display: block;
+    margin: auto;
+  }
+  h1, h1+p {
+    text-align: center;
+  }
+  figure {
+    display: block;
+    margin: 0 auto 0 auto;
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  #tribute-info {
+    display: block;
+    margin: 0 auto 0 auto;
+  }
+  h2 {
+    text-align: center;
+  }
+  body {
+    background-color: #ADD8E6;
+    font-family: Tahoma;
+    }
+  #img-caption {
+    margin-top: 10px;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  footer {
+    text-align: center;
+  }
+  blockquote {
+    text-align: center;
+    width: 50vw;
+    display: block;
+    margin: 0 auto 20px auto;
+    font-size: 20px;
+  }
+  .italic {
+    font-style: italic !important;
+  }
